@@ -31,6 +31,4 @@ To prevent unwanted crashes, inputs are checked to ensure that they are valid
 
 The win screen is shown as below. The user is prompted to play again.
 
-<br>
-
 ![win screen](win_screen.png)
